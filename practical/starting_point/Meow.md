@@ -1,6 +1,6 @@
 # Meow box
 
-1. What does VM stand for: VM stands
+1. What does VM stand for:
 ```{toggle}
 Virtual Machine
 ```
