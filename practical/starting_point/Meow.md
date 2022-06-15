@@ -2,7 +2,6 @@
 
 1. What does VM stand for: VM stands
 ```{toggle}
-:hide:
 Virtual Machine
 ```
 2. What tool do we use to interact with the operating system in order to issue commands via cli, such as the one to start our VPN connection? It's aka a console or shell: 
