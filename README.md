@@ -6,4 +6,5 @@ I will also be using their academy to learn a bit more about the mentality neede
 
 ## Links
 
-[Practical](./practical/README.md)
+- [Practical](./practical/README.md)
+- [Academy](./academy/README.md)
